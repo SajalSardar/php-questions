@@ -1,0 +1,54 @@
+Class Practice Condition:
+
+1. Swap two variables. Example: a = 20, b= 30; Output: a = 30, b = 20;
+2. Create a program to detect if a number is Odd or even.
+3. Create A program To find Leap year.
+4. Create a Login System [Instruction: If user name is incorrect user will get an error and if password is incorrect user will get a different Kind of error]
+5. Using switch case determine if an alphabet vowel or consonant. Vowels are a,e,i,o,u
+Output:
+Your input is a vowel
+OR 
+Your input is a consonant
+
+
+
+Class Practice array: -
+
+1. Supposed we have an multidimensional array which consists data of two or multiple person which include like name age & address. 
+Now echo out (Hello, my name is $name. I am $age years old & and live in $address.)
+2. Create A login System where user data is saved in an associative array
+3. Create a function that will multiply all the value in the array
+4. Create an array which contains number 1-100 then find out all the even or odd number in that array.
+
+
+
+Class Practice function: -
+
+1. Create a Program which can identify if a number is Negative , Positive or Nutral with function().
+3. Create a mark sheet Program with function(). Below 50 => fail, 50-60 => a-, 70-80=> a , Ubove 80 => a+
+4. Create a Factorial Programing in PHP recursive function;
+5. Check whether a number is prime or not with function();
+
+
+
+Problem Solving using PHP loops:
+
+1. Create a pyramid using (*) with for loop.
+2. Create a script that can print 1-100 time table.
+3. Create a Chest Board With php loop
+4. Create A program that an identify all even or odds number from 1-100.
+5. Create a factorial program using php loop.
+6. Using while loop print 1 to 10
+Output:
+1#2#3#4#5#6#7#8#9#10#
+7. Using for loop print only even number from 1-10
+Output:
+2@4@6@8@10@
+8. Using for loop print only odd number from 1-10
+Output:
+1
+3
+5
+7
+9
+
