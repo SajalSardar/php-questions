@@ -32,6 +32,16 @@ Class Practice function: -
 
 
 Problem Solving using PHP loops:
+1. Create a script using a for loop to add all the integers between 0 and 30 and display the total.
+
+2. Write a program which will give you all of the potential combinations of a two-digit decimal combination,
+ printed in a comma delimited format
+
+Sample output :
+00, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30.
+
+3. Write a PHP Script to sum of even numbers from 1 to 10
+4. Write a PHP Script to sum of odd numbers from 1 to 10
 
 1. Create a pyramid using (*) with for loop.
 2. Create a script that can print 1-100 time table.
@@ -51,4 +61,6 @@ Output:
 5
 7
 9
+
+
 
